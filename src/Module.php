@@ -1,6 +1,6 @@
 <?php
 
-namespace umutdibek\dava\src;
+namespace umutdibek\dava;
 
 class Module extends \yii\base\Module
 {
