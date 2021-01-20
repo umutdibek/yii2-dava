@@ -5,9 +5,9 @@ Projenin amacı internet programcılığı dersinde öğrendiğimiz bilgileri ku
 ##### Öncelikle vagrant makinemizi çalıştırmak için "vagrant up" komutunu aşağıdaki resimdeki gibi giriyoruz.
 ![Vagrant up](https://github.com/umutdibek/yii2-dava/blob/main/v1.png)
 ##### Bir sonraki aşama ssh komutunu aşağıdaki gibi terminale yazıyoruz.
-!(https://github.com/umutdibek/yii2-dava/blob/main/v10.png)
+![ssh](https://github.com/umutdibek/yii2-dava/blob/main/v10.png)
 ##### Bir sonraki aşama cd komutunu aşağıdaki gibi terminale yazıyoruz.
-!(https://github.com/umutdibek/yii2-dava/blob/main/v11.png)
+![cd](https://github.com/umutdibek/yii2-dava/blob/main/v11.png)
 ##### Bu aşamadan sonra terminale "composer require --prefer-dist umutdibek/yii2-dava"dev-main"" komutunu aşağıdaki gibi yazıyoruz.
 ![composer require --prefer-dist umutdibek/yii2-dava"dev-main"](https://github.com/umutdibek/yii2-dava/blob/main/v12.png)
 ##### Bir sonraki aşama terminale "php yii migrate/up --migrationPath=@vendor/umutdibek/yii2-dava/src/migrations" komutunu aşağıdaki gibi yazmaktır.
