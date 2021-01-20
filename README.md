@@ -9,7 +9,7 @@ Projenin amacı internet programcılığı dersinde öğrendiğimiz bilgileri ku
 ##### Bir sonraki aşama cd komutunu aşağıdaki gibi terminale yazıyoruz.
 ![cd](https://github.com/umutdibek/yii2-dava/blob/main/v11.png)
 ##### Bu aşamadan sonra terminale "composer require --prefer-dist umutdibek/yii2-dava"dev-main"" komutunu aşağıdaki gibi yazıyoruz.
-![composer require --prefer-dist umutdibek/yii2-dava"dev-main"](https://github.com/umutdibek/yii2-dava/blob/main/v12.png)
+![composer require --prefer-dist umutdibek/yii2-dava"dev-main"](https://github.com/umutdibek/yii2-dava/blob/main/v20.png)
 ##### Bir sonraki aşama terminale "php yii migrate/up --migrationPath=@vendor/umutdibek/yii2-dava/src/migrations" komutunu aşağıdaki gibi yazmaktır.
 ![php yii migrate/up --migrationPath=@vendor/umutdibek/yii2-dava/src/migrations](https://github.com/umutdibek/yii2-dava/blob/main/v15.png)
 ##### Bundan sonra backend klosörünün içine girip main.php dosyasını açıyoruz.15. ve 16. satırı resimdeki yazılan kodları yazıyoruz.
